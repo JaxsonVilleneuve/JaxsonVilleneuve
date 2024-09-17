@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JaxsonVilleneuve
 - I’m interested in learning as much as I can about programming.
 - I’m currently learning JAVA.
-- Socials:
  - Discord: @actuallyjaxson
  - Instagram: @jaxsonvilleneuve
  - Facebook: @jaxson.villeneuve
