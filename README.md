@@ -6,7 +6,6 @@
  - Facebook: @jaxson.villeneuve
  - Snapchat: @jaxsonvil
 - Pronouns: He/Him/His
-- I'm currently a CS student at UWLAX.
 
 <!---
 JaxsonVilleneuve/JaxsonVilleneuve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
